@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "341381464856",
+    "firebase_url": "https://ride-73770-default-rtdb.firebaseio.com",
+    "project_id": "ride-73770",
+    "storage_bucket": "ride-73770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341381464856:android:ba7f8bbffd22381fe5946d",
+        "android_client_info": {
+          "package_name": "com.rideke.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341381464856-hrgo77vbhdmeb6ev83hmqnum8t4kaqk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf4-0dM3d5awPIGyM3sfnuaQRL9EfPHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341381464856-hrgo77vbhdmeb6ev83hmqnum8t4kaqk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341381464856:android:af74a3504bf54519e5946d",
+        "android_client_info": {
+          "package_name": "com.rideke.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341381464856-7on5mv44076vds2d3dm28c7etv7ga9ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rideke.user",
+            "certificate_hash": "8d6198150e3afb64be4b395598efa1067d654ff8"
+          }
+        },
+        {
+          "client_id": "341381464856-hrgo77vbhdmeb6ev83hmqnum8t4kaqk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf4-0dM3d5awPIGyM3sfnuaQRL9EfPHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341381464856-hrgo77vbhdmeb6ev83hmqnum8t4kaqk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
